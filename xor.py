@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#Encode Decode XOR and burtforce
+#Encode Decode XOR and brute force
 #MAU RECODE ??? IZIN DULU LAH,  MINIMAL TAG AKUN GITHUB MIMIN YANG MENGARAH KE AKUN INI, LEBIH GAMPANG SI PAKE FORK
 #KALAU DI ATAS TIDAK DI IKUTI MAKA AKAN MENDAPATKAN DOSA KARENA MIMIN GAK IKHLAS
 #“Wahai orang-orang yang beriman! Janganlah kamu saling memakan harta sesamamu dengan jalan yang batil,” (QS. An Nisaa': 29). Rasulullah SAW juga melarang umatnya untuk mengambil hak orang lain tanpa izin.
@@ -47,7 +47,7 @@ print(f"""
 {Wh}----------------------------------------------------------------
 {Wh}[{Ye}1{Wh}] {Ye}Tool Xor Encode
 {Wh}[{Ye}2{Wh}] {Ye}Tool Xor Decode
-{Wh}[{Ye}3{Wh}] {Ye}Tool xor Burtforce
+{Wh}[{Ye}3{Wh}] {Ye}Tool xor Brute force
 {Wh}----------------------------------------------------------------
 """)
 user = input(f"{Ye}╰ > {Wh}xor-tool {Ye}⊚ > {Wh}")
@@ -154,7 +154,7 @@ elif user == '3':
         for key in range(256):
             plain = (encodeXOR3(chipertext3, key))
         print("----------------------------------------------------------------")
-        print(f"\n{Wh}[{Ye}+{Wh}] {Ye}Hasil burtforce key {Wh}[{Wh}{key}] {Wh}: {Wh}[ {Ye}{plain} {Wh}]")
+        print(f"\n{Wh}[{Ye}+{Wh}] {Ye}Result brute force key {Wh}[{Wh}{key}] {Wh}: {Wh}[ {Ye}{plain} {Wh}]")
     except KeyboardInterrupt:
         print(f" {Wh}[{Ye}!{Wh}] {Wh}Program Stoped...")
 #End Process
