@@ -3,34 +3,34 @@ adalah tool ``XOR CHIPER`` cryptography yang di lengkapi dengan fitur Encode, De
 
 <img src="https://github.com/HunxByts/xorhunx/blob/main/asset/xortool.png">
 
-### Instalation on Linux (deb)
+### Instalasi di Linux (deb)
 ```
 sudo apt-get update && sudo apt-get upgrade
 sudo apt-get install git
 sudo apt-get install python3
 ```
-### Instalation on Windows
+### Instalasi di Windows
 ```Download file zip di bawah ini``` 
 <details>
 <summary>:zap: Download zip :</summary>                                                                                       
 <a href="https://github.com/HunxByts/xorhunx/archive/refs/heads/main.zip">Download xorhunx</a>
 </details>
 
-### Instalation on Termux
+### Instalasi di Termux
 ```
 pkg update && pkg upgrade
 pkg install git
 pkg install python3
 ```
 
-### Usage tool on Linux and Termux
+### Penggunaan tool di Linux dan Termux
 ```
 git clone https://github.com/HunxByts/xorhunx.git
 cd xorhunx
 python3 xor.py
 ```
 
-### Usage tool on Windows 
+### Penggunaan tool di Windows 
 ```
 install python3 https://www.python.org/downloads/
 uzip file xorhunx.zip
