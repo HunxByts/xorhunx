@@ -1,7 +1,7 @@
 # xorhunx
 adalah tool ``XOR CHIPER`` cryptography yang di lengkapi dengan fitur Encode, Decode dan Burte force
 
-<img src="https://github.com/HunxByts/xorhunx/blob/main/asset/xortool.png">
+<img src="https://github.com/HunxByts/xorhunx/blob/main/asset/xorhunx.png">
 
 ### Instalasi di Linux (deb)
 ```
