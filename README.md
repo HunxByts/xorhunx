@@ -1,5 +1,5 @@
 # xorhunx
-adalah tool ``XOR CHIPER`` cryptography yang di lengkapi dengan fitur Encode, Decode dan Burte force
+adalah tool ``XOR CHIPER`` cryptography yang di lengkapi dengan fitur Encode, Decode dan Brute force
 
 <img src="https://github.com/HunxByts/xorhunx/blob/main/asset/xorhunx.png">
 
